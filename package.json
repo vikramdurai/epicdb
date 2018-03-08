@@ -1,0 +1,9 @@
+{
+  "name": "epicdb",
+  "version": "0.0.0.1",
+  "description": "Simple, modular database that doesn't clog your brain.",
+  "main": "epic.js",
+  "repository": "github.com/vikramdurai/epicdb",
+  "author": "Vikram Durai",
+  "license": "MIT"
+}
